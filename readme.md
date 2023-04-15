@@ -1,4 +1,5 @@
-# 초기설정
+# vscode shortkey
+- 동일한 이름의 변수를 한꺼번에 선택하기 (Shift + Ctl + L)
 
 # 주피터노트북(Jupyter notebook)
 - shortkey
